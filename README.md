@@ -49,8 +49,6 @@ Exploratory analysis and predictive modelling of B2B transaction data using Pyth
 - Building models to support pricing recommendations.
 - Connecting model outputs to business pricing decisions.
 
-*Source code for these two projects is not yet published on this profile.*
-
 ## Explore my existing work
 
 | Project | Focus | Repository contents |
