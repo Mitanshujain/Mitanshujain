@@ -4,6 +4,6 @@
 <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
 <path d="M0 278H1200" stroke="#4ce0c5" stroke-width="3" opacity=".45"/>
 <g fill="none" stroke="#2a5865" stroke-width="1"><path d="M820 0V300M900 0V300M980 0V300M1060 0V300M1140 0V300M780 60H1200M780 120H1200M780 180H1200M780 240H1200"/></g>
-<g font-family="Arial,Helvetica,sans-serif"><text x="62" y="61" fill="#70e2cd" font-size="15" letter-spacing="4">ENTERPRISE DATA · APPLIED ML</text><text x="60" y="138" fill="#f5f8fc" font-size="60" font-weight="700">Mitanshu Jain</text><text x="63" y="186" fill="#d3e1eb" font-size="25">Data · Machine Learning · Enterprise Systems</text><text x="63" y="235" fill="#9eb7c6" font-size="18">From business data to better decisions.</text></g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="62" y="61" fill="#70e2cd" font-size="15" letter-spacing="4">ENTERPRISE DATA · AI-ML</text><text x="60" y="138" fill="#f5f8fc" font-size="60" font-weight="700">Mitanshu Jain</text><text x="63" y="186" fill="#d3e1eb" font-size="25">Data · Machine Learning · Enterprise Systems</text><text x="63" y="235" fill="#9eb7c6" font-size="18">From business data to better decisions.</text></g>
 <g fill="none" stroke="#63dbc5" stroke-width="3" opacity=".85"><path d="M862 220L904 172L948 187L998 132L1042 148L1100 75"/><circle cx="862" cy="220" r="5"/><circle cx="904" cy="172" r="5"/><circle cx="948" cy="187" r="5"/><circle cx="998" cy="132" r="5"/><circle cx="1042" cy="148" r="5"/><circle cx="1100" cy="75" r="5"/></g>
 </svg>
