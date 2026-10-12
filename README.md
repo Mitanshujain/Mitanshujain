@@ -1,41 +1,79 @@
-<h1 align="left">Hey What's up??</h1>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Mitanshu Jain — Data, Machine Learning and Enterprise Systems" width="100%" />
+</p>
 
-###
+<p align="center">
+  <strong>Software Engineer at TCS · Data Analytics · Data Engineering · Applied Machine Learning</strong>
+</p>
 
-<h3 align="left">My name is Mitanshu Jain, a fourth-year computer science student, aims for excellence in the dynamic fields of CS and AI. A dedicated learner, committed to mastering state-of-the-art technologies, and eager to collaborate with seasoned professionals for meaningful contributions.</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mitanshu-jain1606/">LinkedIn</a> ·
+  <a href="mailto:mitanshujain06@gmail.com">Email</a> ·
+  <a href="https://github.com/Mitanshujain?tab=repositories">Repositories</a>
+</p>
 
-###
+## About me
 
-<h4 align="left">Dedicated computer science enthusiast with a penchant for problem-solving. Fueled by curiosity, I delve into various tech domains. Eager to connect and contribute to the ever-evolving world of computing. 💻✨</h4>
+I'm Mitanshu Jain, an Assistant System Engineer at Tata Consultancy Services with experience in Java and Python application development, API integration, and enterprise ERP data workflows.
 
-###
+My current work involves Infor LN 10.8, Data Access Layer (DAL) business rules, database queries, and supply chain requirements. I bring this enterprise systems background to my interest in analytics, reliable data pipelines, and machine learning for business decisions.
 
-<p align="left">💻 CS Student<br>🔎 Exploring the Coding World<br>📚 I'm currently learning MERN Stack</p>
+**I'm seeking opportunities in Data Analysis, Data Engineering, Data Science, and AI/ML.**
 
-###
+## Technical focus
 
-<h2 align="left">Tools and Applications :</h2>
+| Area | Tools and methods |
+| --- | --- |
+| Programming & data | Python, Java, SQL/database queries, Pandas |
+| Analytics & BI | Exploratory data analysis, Power BI, data preparation |
+| Machine learning | Scikit-learn, Random Forests, Support Vector Machines, feature engineering, cross-validation |
+| Deep learning & forecasting | RNNs, attention mechanisms, time-series forecasting |
+| Enterprise development | Infor LN 10.8, DAL scripting, API integration, Postman |
+| Training & foundations | Apache Spark, CNNs, NLP/Transformers, AWS Cloud Operations |
 
-###
+## Projects from my resume
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
-</div>
+### Enterprise Supply Chain Demand Forecaster
 
-###
+Historical ERP inventory data preparation and time-series demand forecasting using Python, Pandas, recurrent neural networks, and attention mechanisms.
+
+- Extracting, cleaning, and preprocessing historical inventory data.
+- Analysing seasonal demand patterns.
+- Forecasting demand to support inventory planning.
+
+### B2B Dynamic Pricing Optimization Engine
+
+Exploratory analysis and predictive modelling of B2B transaction data using Python, Scikit-learn, Random Forests, and Support Vector Machines.
+
+- Investigating purchasing behaviour and pricing patterns.
+- Building models to support pricing recommendations.
+- Connecting model outputs to business pricing decisions.
+
+*Source code for these two projects is not yet published on this profile.*
+
+## Explore my existing work
+
+| Project | Focus | Repository contents |
+| --- | --- | --- |
+| [Sales IQ](https://github.com/Mitanshujain/Sales-IQ---Power-BI) | Sales analytics with Power BI | Power BI report and sales datasets |
+| [Sales-O-Matic](https://github.com/Mitanshujain/Sales-o-Matic---Power-BI) | Business intelligence | Power BI reports and dataset |
+| [Movie Mentor](https://github.com/Mitanshujain/Movie-Mentor---Python) | Content-based recommendations | Python/notebook implementation using text features and cosine similarity |
+| [Climate Catalyst](https://github.com/Mitanshujain/Climate-Catalyst---Python) | Weather data analysis | Pandas analysis, notebook, and dataset |
+
+## Experience
+
+**Tata Consultancy Services — Assistant System Engineer**  
+October 2024 – Present
+
+- **Java & Python development · October 2024 – August 2025:** Full-stack applications, backend data logic, API testing, and Angular 14 integration.
+- **Infor LN development · September 2025 – Present:** DAL business rules, enterprise database workflows, supply chain requirements, and collaboration with functional teams and clients.
+
+## Education & training
+
+- **B.Tech, Computer Science Engineering** — SRM Institute of Science and Technology, 2020–2024 · CGPA: 8.37.
+- **Credit-Linked Program in Data Science** — IIT Guwahati / Daksh Gurukul, February 2025 – May 2026.
+- **AWS Academy Graduate — Cloud Operations.**
+
+---
+
+<p align="center">Interested in turning enterprise data into useful insights, dependable pipelines, and practical ML solutions.</p>
