@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer at TCS · Data Analytics · Data Engineering · Applied Machine Learning</strong>
+  <strong>Software Engineer at TCS · Data Analytics · Data Engineering · Machine Learning</strong>
 </p>
 
 <p align="center">
